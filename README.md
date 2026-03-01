@@ -1,10 +1,87 @@
+<br clear="both">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/keta.dev) 
+<div align="center">
+  <img height="600" src="https://i.pinimg.com/originals/e0/ef/68/e0ef68aa7168ea3bd15df32d321ebeda.gif"  />
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=14keta-dev&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=14keta-dev&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=14keta-dev&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+
+<br clear="both">
+
+<h3 align="center">Stack</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-svg-download-png-3032257.png" height="30" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSKG0PBHtyX0oXAmFS9FQFClAYDwnI9wdsXw&s" height="30" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjKJ-w0Y3WiJ9vC_ghylDh_SQMbKXxG5Rgg&s" height="30" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://www.svgrepo.com/show/327361/logo-firebase.svg" height="30" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQPn0Ochqk31NPQnmEzL2NVBPjZbbeGMjWQ&s" height="30" alt="python logo"  />
+  <img width="15" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/typescript-zsc55zo44lllajwp94ayre.png/typescript-ib7kyxviocc82qx117g25q.png?_a=DATAiZAAZAA0" height="30" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJWRV8MyuxaPk0hphghz_QoeVu_i7-yC7M-Q&s" height="30" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" height="30" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732007.png" height="30" alt="css logo"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0-VfCMHGo9XyROKWjGj-mt5bnvEzviXbEg&s" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="15" />
+  <img src="https://git-scm.com/images/logos/logomark-black@2x.png" height="30" alt="git logo"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslrDjrHL12CUo5w6EsegdXz7iCoXc6FhqAw&s" height="30" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://www.svgrepo.com/show/354210/prisma.svg" height="30" alt="prisma logo"  />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmXAGUcOzjy2xaAKISEG6ojczFz_KFn3iZA&s" height="30" alt="supabase logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=14keta-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=14keta-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h6 align="center">Connect</h6>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://discord.com/users/1286467439521038362" target="_blank">
+    <img src="https://img.icons8.com/ios_filled/1200/discord-logo.jpg" width="52" height="52" alt="discord logo"  />
+  </a>
+  <img width="15" />
+  <a href="https://frozi.lol/keta" target="_blank">
+    <img src="https://frozi.lol/_next/image?url=%2Fimages%2Fmain-cube.png&w=32&q=75" width="46" height="46" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=footer&reversal=true&text=KETA.DEV&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=2&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
