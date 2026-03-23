@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://static.tumblr.com/9c47e0e34edbf9a61ed705af929b707c/bouqgec/AbBolqtip/tumblr_static_.gif"  />
+  <img height="650" src="https://static.tumblr.com/9c47e0e34edbf9a61ed705af929b707c/bouqgec/AbBolqtip/tumblr_static_.gif"  />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="30" src="https://media.discordapp.net/attachments/1251971032554672250/1429931132044185731/09df305ac73f1fcf.gif?ex=69c2f5a4&is=69c1a424&hm=75eeb8b187aeec6e739a188074de9e085dc3ecded48a14472273bc34b9562825&=&width=1000&height=40"  />
+  <img height="40" src="https://media.discordapp.net/attachments/1251971032554672250/1429931132044185731/09df305ac73f1fcf.gif?ex=69c2f5a4&is=69c1a424&hm=75eeb8b187aeec6e739a188074de9e085dc3ecded48a14472273bc34b9562825&=&width=1000&height=40"  />
 </div>
 
 ###
@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="30" src="https://media.discordapp.net/attachments/1251971032554672250/1429931132044185731/09df305ac73f1fcf.gif?ex=69c2f5a4&is=69c1a424&hm=75eeb8b187aeec6e739a188074de9e085dc3ecded48a14472273bc34b9562825&=&width=1000&height=40"  />
+  <img height="40" src="https://media.discordapp.net/attachments/1251971032554672250/1429931132044185731/09df305ac73f1fcf.gif?ex=69c2f5a4&is=69c1a424&hm=75eeb8b187aeec6e739a188074de9e085dc3ecded48a14472273bc34b9562825&=&width=1000&height=40"  />
 </div>
 
 ###
